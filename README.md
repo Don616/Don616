@@ -1,5 +1,5 @@
 # /Don616
-## Fullstack Develop & DevOps
+## Fullstack Developer & DevOps
 
 
 <div align="center">
