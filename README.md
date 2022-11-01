@@ -31,7 +31,8 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
 
- 
+  <br>
+  <img src="https://profile-counter.glitch.me/don616/count.svg" />
 </div>
   
   
